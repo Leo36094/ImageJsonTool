@@ -1,0 +1,14 @@
+{
+  "name": "demo-tool",
+  "version": "0.1.0",
+  "author": "chuangl@garena.com",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "cross-env": "^7.0.3"
+  },
+  "devDependencies": {
+    "image-size": "^0.9.7"
+  }
+}
